@@ -1,0 +1,7 @@
+C:\Users\henqu\source\repos\AprendendoCSharp\DesafioFatorial\obj\Debug\DesafioFatorial.csproj.CoreCompileInputs.cache
+C:\Users\henqu\source\repos\AprendendoCSharp\DesafioFatorial\bin\Debug\DesafioFatorial.exe.config
+C:\Users\henqu\source\repos\AprendendoCSharp\DesafioFatorial\bin\Debug\DesafioFatorial.exe
+C:\Users\henqu\source\repos\AprendendoCSharp\DesafioFatorial\bin\Debug\DesafioFatorial.pdb
+C:\Users\henqu\source\repos\AprendendoCSharp\DesafioFatorial\obj\Debug\DesafioFatorial.exe
+C:\Users\henqu\source\repos\AprendendoCSharp\DesafioFatorial\obj\Debug\DesafioFatorial.pdb
+C:\Users\henqu\source\repos\AprendendoCSharp\DesafioFatorial\obj\Debug\DesafioFatorial.csproj.AssemblyReference.cache
